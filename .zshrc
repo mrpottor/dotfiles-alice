@@ -59,6 +59,8 @@ alias ll="ls --color -lh"
 alias spm="sudo pacman"
 alias gr="gvim --remote-silent"
 alias vr="vim --remote-silent"
+alias la="la --color -la"
+alias cls="clear"
 
 #------------------------------
 # ShellFuncs
